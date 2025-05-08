@@ -1,3 +1,3 @@
 See supplemental material of Wills et al. (2025, submitted to J. Climate) for full method description, cf. Deser and Phillips 2023. 
 
-Please note that cesm2_lens.smbb.EM.tas.190001-202212.nc is not provided, but is simply the ensemble mean of tas data from the 50-member CESM2-LE smbb ensemble, regridded to 2.5x2.5° resolution. Please contact Robert Jnglin Wills or Adam Phillips if you need help getting this data.
+Please note that cesm2_lens.smbb.EM.tas.190001-202212.nc is not provided due to its file size. It is simply the ensemble mean of tas data from the 50-member CESM2-LE smbb ensemble, regridded to 2.5x2.5° resolution. Please contact Robert Jnglin Wills or Adam Phillips if you need help getting this data.
